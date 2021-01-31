@@ -8534,6 +8534,11 @@ svelte-loader@2.13.3:
     loader-utils "^1.1.0"
     svelte-dev-helper "^1.1.9"
 
+svelte-typed-component@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/svelte-typed-component/-/svelte-typed-component-1.1.1.tgz#7626af706e40f0170cb76d96efb3ff5b7297dce1"
+  integrity sha512-LNqgXQtDeUHU2pXewrjP78NuMbmA4A2F+BAwoT+FS1WsJX6Wq0V/9QYbjWvjZBRI6RNEhcRj2/E7YuQX73NP0Q==
+
 svelte@^3.0.0:
   version "3.32.1"
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.32.1.tgz#c4b6e35517d0ed77e652cc8964ef660afa2f70f3"
