@@ -1,3 +1,24 @@
+### v3.0.7
+* easyroute-core updated to v1.3.5 (fix `from` object issue).
+
+### v3.0.6
+* easyroute-core updated to v1.3.4-1;
+* introducing `omitTrailingSlash` option;
+* route paths fixed in demo-app.
+
+### v3.0.5
+* fix: `currentRoute` empty on startup (#26);
+* fix: outlet auto-restore after visiting unknown route (#27);
+* `currentRoute` prop is deprecated and will be removed in 3.1.0;
+* demo-app fix: active menu buttons highlighted.
+
+### v3.0.4
+* `easyroute-core` updated to 1.3.3 ([changelog](https://github.com/easyroute-router/easyroute-core/blob/master/CHANGELOG.md#v133)).
+
+### v3.0.3
+* `easyroute-core` updated to 1.3.2;
+* updated docs (https://github.com/easyroute-router/svelte-easyroute/pull/23).
+
 ### v3.0.2
 * `easyroute-core` updated to 1.3.1;
 * fixed errors when using `base` option;
